@@ -1,6 +1,15 @@
 # awesome-os-sustainability
 Curated List of Awesome Resources for Sustaining Open Source Projects
 
+**Contributors:** Laura Ación,  Jasmine Baker, Oliver Beckstein, Robert Castelo, Karmen Condic-Jurkic, Beth Duckles, Jonah Duckles, Kate Hertweck, SherAaron Hurt, Fernando Pérez, Daniela Saderi, Reshama Shaikh, Dan Sholler, Stéfan van der Walt
+
+Based on discussions in this community call, we found that sustainability challenges and sustainability strategies differ at various stages of open source and open science project evolution. This resource is an attempt to gather together awesome resources that can help project leaders as they navigate these stages. 
+
+We see (at least) four main phases for projects based on discussions:
+ 1) Ideation/Pre-Formation, 2) Forming Organizations or Teams, 3) Growing/Expanding the Organization or team 4) Institutionalizing and Maintaining
+
+This curated list of awesome resources is an effort to gather resources from around the web that can be helpful to leaders as they navigate each of these areas. 
+
 ## Ideation / Pre-formation
 
 *I have an idea for a tool that solves a problem, how do I build it?*

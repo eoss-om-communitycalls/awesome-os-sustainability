@@ -16,7 +16,8 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 - Gathering tools, resources, mentorship, support   
 - Workshops - summer of code  
-- Solving your own problems  
+- Solving your own problems
+- Creative Thinking / Ideation tools
 
 ## Forming orgs / teams
 
@@ -29,7 +30,7 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Contracts   
   - Grants   
 - Tax status (non-profit, for profit)  
-- Fiscal sponsorship  
+- Fiscal sponsorship
 - Leadership styles  
   - Benevolent dictator   
   - Meritocracy  

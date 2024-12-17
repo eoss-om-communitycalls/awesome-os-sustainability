@@ -68,3 +68,9 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Handling conflict  
 - Community Cohesion and Forking 
 
+
+## Overall Resources 
+
+- [Guide to Sustainability Models for Research Software Projects](https://github.com/danielskatz/sustaining-research-projects?tab=readme-ov-file) - Via Dan Katz
+- [A Handy Guide to Financial Support for Open Source - Nayafia's Lemonade Stand](https://github.com/nayafia/lemonade-stand)
+- [OSAOS Book - Code for Science and Society](https://osaos-book.codeforscience.org/)

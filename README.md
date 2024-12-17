@@ -8,7 +8,7 @@ Based on discussions in this community call, we found that sustainability challe
 We see (at least) four main phases for projects based on discussions:
  1) Ideation/Pre-Formation, 2) Forming Organizations or Teams, 3) Growing/Expanding the Organization or team 4) Institutionalizing and Maintaining
 
-This curated list of awesome resources is an effort to gather resources from around the web that can be helpful to leaders as they navigate each of these areas. 
+This curated list of awesome resources is an effort to gather resources from around the web that can be helpful to leaders as they navigate each of these growth areas. 
 
 ## Ideation / Pre-formation
 
@@ -19,11 +19,12 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Solving your own problems
 - Creative Thinking / Ideation tools
 
-## Forming orgs / teams
+## Forming organization / team / project
 
 *The idea has grown momentum, it feels like it could be an org / team (sometimes this happens unintentionally)* 
 
-- Financial structure (as needed)  
+- Financial structure (as needed)
+   -
 - Fund raising  
   - Managing finances   
 - Sources of money  
@@ -53,9 +54,9 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 - Mission vision  
   - Invitation to others to join-in  
-    - Volunteer engagement   
-    - Hiring / firing   
-    - Role structures  
+    - Volunteer engagement
+    - Hiring / firing
+    - Role structures
     - Policies / procedures / practices
 
 

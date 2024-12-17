@@ -57,6 +57,7 @@ This curated list of awesome resources is an effort to gather resources from aro
     - Hiring / firing   
     - Role structures  
     - Policies / procedures / practices
+    - Test
 
 
 ## Institutionalizing Maintaining / Sustaining orgs / teams 

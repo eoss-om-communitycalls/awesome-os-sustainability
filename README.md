@@ -12,16 +12,27 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 ## Ideation / Pre-formation
 
+### Questions You're Asking Yourself:
+
 *I have an idea for a tool that solves a problem, how do I build it?*
+
+### Challenges:
 
 - Gathering tools, resources, mentorship, support   
 - Workshops - summer of code  
 - Solving your own problems
 - Creative Thinking / Ideation tools
 
+### Resources:
+
 ## Forming organization / team / project
 
+
+### Questions You're Asking Yourself:
+
 *The idea has grown momentum, it feels like it could be an org / team (sometimes this happens unintentionally)*
+
+### Challenges:
 
 - Financial structure (as needed)
 - Fund raising  
@@ -46,10 +57,16 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Naming \- what are we going to call this thing?  
 - Websites, domains, email address,  logo
 
+### Resources:
+
 
 ## Growing / Expanding orgs / teams 
 
+### Questions You're Asking Yourself:
+
 *We’re getting more mature, what is our impact going to be? How do we actually DO the work?*
+
+### Challenges:
 
 - Mission vision  
   - Invitation to others to join-in  
@@ -57,9 +74,13 @@ This curated list of awesome resources is an effort to gather resources from aro
     - Hiring / firing
     - Role structures
     - Policies / procedures / practices
+   
+ ### Resources:
 
 
 ## Institutionalizing Maintaining / Sustaining orgs / teams 
+
+### Questions You're Asking Yourself:
 
 *We’ve been around for a while, how do we (should we) stick around? What structures are needed to make that happen?*
 

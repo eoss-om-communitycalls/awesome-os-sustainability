@@ -30,13 +30,11 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 ### Questions You're Asking Yourself:
 
-*The idea has grown momentum, it feels like it could be an org / team (sometimes this happens unintentionally)* 
-
+*The idea has grown momentum, it feels like it could be an org / team (sometimes this happens unintentionally)*
 
 ### Challenges:
 
 - Financial structure (as needed)
-   -
 - Fund raising  
   - Managing finances   
 - Sources of money  

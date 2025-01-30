@@ -75,11 +75,13 @@ This curated list of awesome resources is an effort to gather resources from aro
    - [Governing Open](https://governingopen.com/)
    - [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9)
 - How are decisions made?  
-  - Executive  
+  - Executive
   - Collective
     - Enhancement Proposals
       - [Python Enhancement Proposals](https://polkas.github.io/posts/PEP/index.html) 
-  - Board  
+  - Board
+     - Boards
+        - [Board Governance Models](https://governanceatwork.io/blog/board-governance-models/) 
   - Others  
 - Naming \- what are we going to call this thing?
 - Team Software Quality - Orgs that support people/disciplines around team software development skills / practices:

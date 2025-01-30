@@ -56,7 +56,8 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Open Contribution  
   - Consensus Based  
   - Distributed  
-  - Governance   
+  - Governance
+    [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)  
 - How are decisions made?  
   - Executive  
   - Collective  

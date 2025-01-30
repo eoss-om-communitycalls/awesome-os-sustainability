@@ -75,6 +75,7 @@ This curated list of awesome resources is an effort to gather resources from aro
    - [FOSS Governance](https://fossgovernance.org/)
    - [Governing Open](https://governingopen.com/)
    - [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9)
+   - [Ethical Considerations When Choosing an OS Governance Model - Turing Way](https://book.the-turing-way.org/ethical-research/ethics-open-source-governance.html) 
 - How are decisions made?  
   - Executive  
   - Collective

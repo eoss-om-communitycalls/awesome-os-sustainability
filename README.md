@@ -62,7 +62,13 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Collective  
   - Board  
   - Others  
-- Naming \- what are we going to call this thing?  
+- Naming \- what are we going to call this thing?
+- Team Software Quality - Orgs that support people/disciplines around team software development skills / practices:
+   - [EVERSE](https://everse.software)
+   - [SSI](https://software.ac.uk)
+   - [MolSSI](https://molssi.org)
+   - [URSSI](https://urssi.org)
+   - [CodeRefinery](https://coderefinery.org)
 - Websites, domains, email address,  logo
 
 ### Resources:

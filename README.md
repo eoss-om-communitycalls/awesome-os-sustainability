@@ -35,6 +35,7 @@ This curated list of awesome resources is an effort to gather resources from aro
 ### Challenges:
 
 - Financial structure (as needed)
+   - [Awesome OSS Motentization](https://github.com/PayDevs/awesome-oss-monetization)
 - Fund raising  
   - Managing finances   
 - Sources of money  

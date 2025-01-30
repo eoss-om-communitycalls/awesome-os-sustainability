@@ -107,7 +107,8 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Mission/Vision  
   - Invitation to others to join-in  
     - Volunteer engagement
-      [Participation in OS Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
+       - [Participation in OS Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
+       - [How to Build an Architecture of Participation](https://dougbelshaw.com/blog/2017/03/09/build-architecture-participation/)
     - Hiring / firing
     - Role structures
    - Policies / procedures / practices

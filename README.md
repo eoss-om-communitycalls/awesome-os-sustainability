@@ -125,7 +125,13 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 *We’ve been around for a while, how do we (should we) stick around? What structures are needed to make that happen?*
 
-- Burnout   
-- Handling conflict  
+- Burnout
+  - [Maintaining Balance for Open Source Maintainers](https://opensource.guide/maintaining-balance-for-open-source-maintainers/)
+  - [The Lonely Journey of Open-Source Maintainers](https://opensauced.pizza/blog/the-lonely-journey-of-open-source-maintainers)
+  - [Dealing with Burnout in Open Source](https://opensource.com/article/21/7/burnout-open-source)
+- Handling conflict
+  - [The Social Contract of Open Source](https://snarky.ca/the-social-contract-of-open-source/)
+  - [How to Deal with Toxic People](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+  - [Managing Conflicts in Open Source Communities](https://www.electronicmarkets.org/fileadmin/user_upload/doc/Issues/Volume_14/Issue_02/V14I2_Managing_Conflicts_in_Open_Source_Communities.pdf) 
 - Community Cohesion and Forking 
 

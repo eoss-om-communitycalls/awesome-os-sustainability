@@ -59,7 +59,8 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Benevolent dictator   
   - Meritocracy  
   - Open Contribution
-     - [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/)  
+     - [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/)
+     - [Framework for Open Practices](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3) 
   - Consensus Based  
   - Distributed  
 - Governance

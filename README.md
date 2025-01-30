@@ -59,7 +59,13 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Distributed  
   - Governance
    - [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)
-   - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/)) 
+   - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/))
+   - [Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)
+   - [Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+   - [A guide to the 6 open source governance models](https://scantist.com/resources/blogs/a-guide-to-the-6-open-source-governance-models)
+   - [FOSS Governance](https://fossgovernance.org/)
+   - [Governing Open](https://governingopen.com/)
+   - [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9)
 - How are decisions made?  
   - Executive  
   - Collective  

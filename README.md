@@ -58,7 +58,8 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Leadership styles  
   - Benevolent dictator   
   - Meritocracy  
-  - Open Contribution  
+  - Open Contribution
+     - [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/)  
   - Consensus Based  
   - Distributed  
 - Governance

@@ -37,11 +37,15 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Financial structure (as needed)
    - [Awesome OSS Motentization](https://github.com/PayDevs/awesome-oss-monetization)
    - [State of Open Source Funding](https://github.com/karasowles/slides/blob/main/State%20of%20Open%20Source%20Funding.md)
-- Fund raising  
-  - Managing finances   
+   - Collective effort model
+      - Example: - [DSpace](https://dspace.org/) - small budget, large membership, shared efforts.
+- Fund raising
+- Managing finances   
 - Sources of money  
   - Contracts   
-  - Grants   
+  - Grants
+    - Government
+    - Philanthropic     
 - Tax status (non-profit, for profit)  
 - Fiscal sponsorship
 - Leadership styles  

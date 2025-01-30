@@ -48,6 +48,8 @@ This curated list of awesome resources is an effort to gather resources from aro
     - Philanthropic     
 - Tax status (non-profit, for profit)  
 - Fiscal sponsorship
+- Organizational Models
+   - [Models for Sustaining Research Projects](https://github.com/danielskatz/sustaining-research-projects)
 - Leadership styles  
   - Benevolent dictator   
   - Meritocracy  

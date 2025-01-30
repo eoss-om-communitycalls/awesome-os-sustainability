@@ -26,7 +26,7 @@ This curated list of awesome resources is an effort to gather resources from aro
 ### Resources:
 
 ## Forming organization / team / project
-
+- 
 
 ### Questions You're Asking Yourself:
 
@@ -66,7 +66,10 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Websites, domains, email address,  logo
 
 ### Resources:
-
+- [Tales of Transitions: Seeking Scientific Software Sustainability by Cohoon, Du and Howison 2025](https://dl.acm.org/doi/pdf/10.1145/3701208)
+- [Individual Context-Free Online Community Health Indicators Fail to Identify Open Source Software Sustainability by Yehudi, Goble and Jay 2023)[https://arxiv.org/abs/2309.12120]
+- [A Toolkit for Measuring the Impacts of Public Funding on Open Source Software Development by Osborne, Sharratt, Foster and Boehm 2024](https://arxiv.org/abs/2411.06027v1)
+- [Center for Open-Source Research Software Stewardship and Advancement - CORSA](https://corsa.center/)
 
 ## Growing / Expanding orgs / teams 
 
@@ -76,12 +79,12 @@ This curated list of awesome resources is an effort to gather resources from aro
 
 ### Challenges:
 
-- Mission vision  
+- Mission/Vision  
   - Invitation to others to join-in  
     - Volunteer engagement
     - Hiring / firing
     - Role structures
-    - Policies / procedures / practices
+   - Policies / procedures / practices
    
  ### Resources:
 

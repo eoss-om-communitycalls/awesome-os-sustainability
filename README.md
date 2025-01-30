@@ -49,6 +49,9 @@ This curated list of awesome resources is an effort to gather resources from aro
     - Philanthropic     
 - Tax status (non-profit, for profit)  
 - Fiscal sponsorship
+   - [NumFocus](https://numfocus.org)
+   - [Code For Science & Society](https://www.codeforsociety.org/)
+   - [Open Collective](https://opencollective.org)
 - Organizational Models
    - [Models for Sustaining Research Projects](https://github.com/danielskatz/sustaining-research-projects)
 - Leadership styles  

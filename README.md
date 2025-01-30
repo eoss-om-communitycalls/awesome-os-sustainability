@@ -88,6 +88,7 @@ This curated list of awesome resources is an effort to gather resources from aro
    - Policies / procedures / practices
    
  ### Resources:
+- [Digital Infrastructure Reading List - Code for Science and Society](https://www.codeforsociety.org/incubator/resources/dii-resource) 
 
 ## Institutionalizing Maintaining / Sustaining orgs / teams 
 

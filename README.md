@@ -57,7 +57,8 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Consensus Based  
   - Distributed  
   - Governance
-    [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)  
+   - [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)
+   - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/)) 
 - How are decisions made?  
   - Executive  
   - Collective  

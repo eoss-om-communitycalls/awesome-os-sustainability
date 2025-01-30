@@ -60,11 +60,11 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Meritocracy  
   - Open Contribution
      - [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/)
-     - [Framework for Open Practices](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3) 
+     - [Framework for Open Practices](https://medium.com/mozilla-open-innovation/a-framework-of-open-practices-9a17fe1645a3)
+     - [The Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual)
   - Consensus Based  
   - Distributed  
 - Governance
-
    - [Sustain OSS - Governance Readiness Checklist](https://sustainoss.org/governance-readiness/)
    - [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)
    - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/))

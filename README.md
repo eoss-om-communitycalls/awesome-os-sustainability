@@ -63,8 +63,7 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Consensus Based  
   - Distributed  
 - Governance
-   - Enhancement Proposals
-      - [Python Enhancement Proposals](https://polkas.github.io/posts/PEP/index.html) 
+
    - [Sustain OSS - Governance Readiness Checklist](https://sustainoss.org/governance-readiness/)
    - [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)
    - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/))
@@ -76,7 +75,9 @@ This curated list of awesome resources is an effort to gather resources from aro
    - [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9)
 - How are decisions made?  
   - Executive  
-  - Collective  
+  - Collective
+    - Enhancement Proposals
+      - [Python Enhancement Proposals](https://polkas.github.io/posts/PEP/index.html) 
   - Board  
   - Others  
 - Naming \- what are we going to call this thing?

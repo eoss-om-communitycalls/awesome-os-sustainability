@@ -26,7 +26,6 @@ This curated list of awesome resources is an effort to gather resources from aro
 ### Resources:
 
 ## Forming organization / team / project
-- 
 
 ### Questions You're Asking Yourself:
 
@@ -41,6 +40,8 @@ This curated list of awesome resources is an effort to gather resources from aro
       - Example: - [DSpace](https://dspace.org/) - small budget, large membership, shared efforts.
       - [It Takes a Village - Shared OS Sustainability Practices](https://itav.lyrasis.org/)
 - Fund raising
+  - [Lemonade Stand Guide to Financial Support for Open Source](https://github.com/nayafia/lemonade-stand)
+  - [Funding Open Source](https://fundingopensource.com/funding-open-source-projects/)
 - Managing finances   
 - Sources of money  
   - Contracts   

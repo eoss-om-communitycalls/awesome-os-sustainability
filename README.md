@@ -57,7 +57,8 @@ This curated list of awesome resources is an effort to gather resources from aro
   - Open Contribution  
   - Consensus Based  
   - Distributed  
-  - Governance
+- Governance
+   - [Sustain OSS - Governance Readiness Checklist](https://sustainoss.org/governance-readiness/)
    - [Principles of Governing Open Source Commons](https://sustainoss.pubpub.org/pub/jqngsp5u/release/1)
    - [Fundamentals of Software Sustainability](https://danielskatzblog.wordpress.com/2018/09/26/fundamentals-of-software-sustainability/))
    - [Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)

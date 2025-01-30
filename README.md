@@ -49,6 +49,7 @@ This curated list of awesome resources is an effort to gather resources from aro
     - Philanthropic     
 - Tax status (non-profit, for profit)  
 - Fiscal sponsorship
+   - [What is Fiscal Sponsorship](https://www.adlercolvin.com/wp-content/themes/adlercolvin/pdf/What-Is-Fiscal-Sponsorship.pdf) (pdf)
    - [NumFocus](https://numfocus.org)
    - [Code For Science & Society](https://www.codeforsociety.org/)
    - [Open Collective](https://opencollective.org)

@@ -39,6 +39,7 @@ This curated list of awesome resources is an effort to gather resources from aro
    - [State of Open Source Funding](https://github.com/karasowles/slides/blob/main/State%20of%20Open%20Source%20Funding.md)
    - Collective effort model
       - Example: - [DSpace](https://dspace.org/) - small budget, large membership, shared efforts.
+      - [It Takes a Village - Shared OS Sustainability Practices](https://itav.lyrasis.org/)
 - Fund raising
 - Managing finances   
 - Sources of money  

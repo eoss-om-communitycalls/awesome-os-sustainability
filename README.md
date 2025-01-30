@@ -82,12 +82,12 @@ This curated list of awesome resources is an effort to gather resources from aro
 - Mission/Vision  
   - Invitation to others to join-in  
     - Volunteer engagement
+      [Participation in OS Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
     - Hiring / firing
     - Role structures
    - Policies / procedures / practices
    
  ### Resources:
-
 
 ## Institutionalizing Maintaining / Sustaining orgs / teams 
 

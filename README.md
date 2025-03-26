@@ -79,7 +79,7 @@ These resoruces can be used to explore examples of other projects and how they w
 
 #### Ideation 
 
-- [Design Thinking Toolkit[(https://designthinkingtoolkit.co/)
+- [Design Thinking Toolkit](https://designthinkingtoolkit.co/)
 - [Stanford d.school Starter Kit](https://dschool.stanford.edu/tools/starter-kit)
 - [Strategyzer Canvases](https://www.strategyzer.com/library?type=Tools) 
 

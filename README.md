@@ -1,7 +1,8 @@
 # awesome-os-sustainability
+
 Curated List of Awesome Resources for Sustaining Open Source Projects
 
-**Contributors:** Laura Ación,  Jasmine Baker, Oliver Beckstein, Robert Castelo, Karmen Condic-Jurkic, Beth Duckles, Jonah Duckles, Kate Hertweck, SherAaron Hurt, Fernando Pérez, Daniela Saderi, Reshama Shaikh, Dan Sholler, Stéfan van der Walt
+**Contributor (add your name if you've made a contribution):** Laura Ación,  Jasmine Baker, Oliver Beckstein, Robert Castelo, Karmen Condic-Jurkic, Beth Duckles, Jonah Duckles, Kate Hertweck, SherAaron Hurt, Fernando Pérez, Daniela Saderi, Reshama Shaikh, Dan Sholler, Stéfan van der Walt
 
 Based on discussions in this community call, we found that sustainability challenges and sustainability strategies differ at various stages of open source and open science project evolution. This resource is an attempt to gather together awesome resources that can help project leaders as they navigate these stages. 
 
@@ -9,6 +10,48 @@ We see (at least) four main phases for projects based on discussions:
  1) Ideation/Pre-Formation, 2) Forming Organizations or Teams, 3) Growing/Expanding the Organization or team 4) Institutionalizing and Maintaining
 
 This curated list of awesome resources is an effort to gather resources from around the web that can be helpful to leaders as they navigate each of these growth areas. 
+
+## 🌱 Community-Powered Resource Gathering 🚀
+
+We're building a comprehensive guide to sustainability in open source and open science projects. Our goal is to collect practical, actionable resources that help project leaders navigate the complex journey from a simple idea to a thriving, sustainable initiative. 🧭
+
+### 🔍 What We're Looking For
+
+We want resources that address real challenges in different stages of project development:
+
+- **Ideation & Pre-Formation** 💡: Tools, mentorship guides, and strategies for turning an initial concept into a potential project
+- **Forming Teams & Organizations** 👥: Guidance on governance, funding, leadership models, and organizational structures
+- **Growing & Expanding 🌈**: Resources about community building, volunteer engagement, and scaling impact
+- **Institutionalizing & Maintaining 🏗️**: Strategies for long-term sustainability, burnout prevention, conflict resolution, and maintaining project health
+
+We've tried to craft a "Questions you might ask yourself" section and the kinds of challenges you might run into when you ask that question. Then gather resources around each. These are drawn from real discussions as part of the EOSS Community calls run by CZI and Organizational Mycology. There are likely blindspots and gaps in these limited discussions. We'd like this resource to continue to grow and fill in those gaps.  
+
+## 📚 Types of Resources We Want
+
+- Blog posts from OSS organizations
+- Practical guides and handbooks
+- Case studies of successful open source projects
+- Toolkits and frameworks
+- Community best practices
+- Funding and sustainability models
+- Psychological and organizational research
+- Academic research papers
+
+## 📚 How You Can Contribute
+
+- Know a great resource? 🔍 Share it with us!
+- Spotted a gap? 🕳️ Help us fill it.
+- Have practical experience? 💡 Your real-world wisdom matters.
+
+## Contribution Methods:
+
+- [Open an issue](https://github.com/eoss-om-communitycalls/awesome-os-sustainability/issues) on this repository 📝
+- Submit a pull request to this repo with your addtion / modification 🛠️
+- Reach out via email (info at orgmycology.com) or CZI Slack (DM Jonah Duckles, Beth Duckles and/or Dan Sholler there)  💬
+
+No contribution is too small. Whether it's a blog post, a research paper, a tool, or a hard-earned lesson from your project's journey—we want to hear from you. 🌟
+
+----
 
 ## Ideation / Pre-formation
 

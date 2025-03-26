@@ -68,6 +68,21 @@ No contribution is too small. Whether it's a blog post, a research paper, a tool
 
 ### Resources:
 
+#### Open Source working methods / examples 
+
+These resoruces can be used to explore examples of other projects and how they work / function. From browsing themes on GitHub to looking at how other projects invite contribution. 
+
+- [GitHub Explore](https://github.com/explore)
+- [Open Source Guides](https://opensource.guide/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Up For Grabs](https://up-for-grabs.net/)
+
+#### Ideation 
+
+- [Design Thinking Toolkit[(https://designthinkingtoolkit.co/)
+- [Stanford d.school Starter Kit](https://dschool.stanford.edu/tools/starter-kit)
+- [Strategyzer Canvases](https://www.strategyzer.com/library?type=Tools) 
+
 ## Forming organization / team / project
 
 ### Questions You're Asking Yourself:

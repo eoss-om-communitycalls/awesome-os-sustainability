@@ -7,7 +7,10 @@ Curated List of Awesome Resources for Sustaining Open Source Projects
 Based on discussions in this community call, we found that sustainability challenges and sustainability strategies differ at various stages of open source and open science project evolution. This resource is an attempt to gather together awesome resources that can help project leaders as they navigate these stages. 
 
 We see (at least) four main phases for projects based on discussions:
- 1) Ideation/Pre-Formation, 2) Forming Organizations or Teams, 3) Growing/Expanding the Organization or team 4) Institutionalizing and Maintaining
+ 1) Ideation/Pre-Formation
+ 2) Forming Organizations or Teams
+ 3) Growing/Expanding the Organization or team
+ 4) Institutionalizing and Maintaining
 
 This curated list of awesome resources is an effort to gather resources from around the web that can be helpful to leaders as they navigate each of these growth areas. 
 
@@ -166,13 +169,13 @@ These resoruces can be used to explore examples of other projects and how they w
 ### Challenges:
 
 - Mission/Vision  
-  - Invitation to others to join-in  
-    - Volunteer engagement
-       - [Participation in OS Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
-       - [How to Build an Architecture of Participation](https://dougbelshaw.com/blog/2017/03/09/build-architecture-participation/)
-    - Hiring / firing
-    - Role structures
-   - Policies / procedures / practices
+- Invitation to others to join-in  
+- Volunteer engagement
+   - [Participation in OS Communities](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities)
+   - [How to Build an Architecture of Participation](https://dougbelshaw.com/blog/2017/03/09/build-architecture-participation/)
+- Hiring / firing
+- Role structures
+- Policies / procedures / practices
    
  ### Resources:
 - [Digital Infrastructure Reading List - Code for Science and Society](https://www.codeforsociety.org/incubator/resources/dii-resource) 

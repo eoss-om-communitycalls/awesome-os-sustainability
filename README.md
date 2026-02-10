@@ -139,11 +139,13 @@ These resoruces can be used to explore examples of other projects and how they w
    - [Governance of open source software: state of the art](https://link.springer.com/article/10.1007/s10997-007-9022-9)
    - [Ethical Considerations When Choosing an OS Governance Model - Turing Way](https://book.the-turing-way.org/ethical-research/ethics-open-source-governance.html) 
 - How are decisions made?  
-  - Executive  
+  - Executive
   - Collective
     - Enhancement Proposals
       - [Python Enhancement Proposals](https://polkas.github.io/posts/PEP/index.html) 
-  - Board  
+  - Board
+     - Boards
+        - [Board Governance Models](https://governanceatwork.io/blog/board-governance-models/) 
   - Others  
 - Naming \- what are we going to call this thing?
 - Team Software Quality - Orgs that support people/disciplines around team software development skills / practices:
